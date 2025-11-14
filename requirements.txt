@@ -1,0 +1,13 @@
+crewai
+crewai_tools
+streamlit
+python-dotenv
+requests
+
+tavily-python
+
+plotly
+
+
+langchain_google_genai
+langchain
